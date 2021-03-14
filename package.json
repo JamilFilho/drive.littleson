@@ -1,0 +1,26 @@
+{
+  "name": "drive.littleson",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamilFilho/drive.littleson.git"
+  },
+  "author": "Jamil Filho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamilFilho/drive.littleson/issues"
+  },
+  "homepage": "https://github.com/JamilFilho/drive.littleson#readme",
+  "dependencies": {
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
